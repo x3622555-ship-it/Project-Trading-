@@ -1,4 +1,4 @@
-# 📘 End-to-End Trading System (Beginner Project)
+# 📘 End-to-End Trading System 
 
 This project is a simple end-to-end trading system created for educational purposes. It includes:
 
